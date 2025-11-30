@@ -11,7 +11,11 @@
   ],
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "trash-icon.png"
+    "default_icon": {
+      "16": "trash-icon.png",
+      "48": "trash-icon.png",
+      "128": "trash-icon-128.png"
+    }
   },
   "background": {
     "service_worker": "background.js"
@@ -28,7 +32,7 @@
   "icons": {
     "16": "trash-icon.png",
     "48": "trash-icon.png",
-    "128": "trash-icon.png"
+    "128": "trash-icon-128.png"
   }
 }
 
