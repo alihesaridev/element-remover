@@ -12,12 +12,7 @@ A Chrome extension that allows you to remove elements from web pages by CSS sele
 
 ## Installation
 
-1. **Generate Icons** (first time only):
-   - Open `generate-icons.html` in your browser
-   - The icons will automatically download (icon16.png, icon48.png, icon128.png)
-   - Make sure these files are in the extension folder
-
-2. **Load Extension**:
+1. **Load Extension**:
    - Open Chrome and navigate to `chrome://extensions/`
    - Enable "Developer mode" (toggle in the top right)
    - Click "Load unpacked"
